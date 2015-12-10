@@ -13,15 +13,15 @@ I am not associated with NewMatter in any way, but here's links to their site:
 Files
 -----
 
-### `Astroprint.md`
+### [`Astroprint.md`](https://github.com/tripflex/MOD-t/tree/master/Astroprint.md)
 
 Information on setting up/configuring Astroprint (with GCode) https://www.astroprint.com/
 
-### `Basic_GCode.md`
+### [`Basic_GCode.md`](https://github.com/tripflex/MOD-t/tree/master/Basic_GCode.md)
 
 Basic GCode information for setting up the printer (including START and END commands)
 
-### `clearnozzle.gcode`
+### [`clearnozzle.gcode`](https://github.com/tripflex/MOD-t/tree/master/clearnozzle.gcode)
 
 The file `clearnozzle.gcode` is intended to help clear a jammed nozzle on the MOD-t. Just connect your MOD-t to your computer with the USB, launch the MOD-t print tool app and select `Settings > Advanced Mode > Print File`
 
@@ -32,13 +32,13 @@ The MOD-t will do it's little calibration dance and then the nozzle will start t
 Directories
 -----------
 
-### Firmware
+### [Firmware](https://github.com/tripflex/MOD-t/tree/master/firmware)
 
 This directory contains any firmware files I have been able to find, if you have any that are not in the repo, please open an issue or get in contact me with so I can add them.
 
-Go to the directory and see the `README.md` for documentation
+Go to the directory and see the [Firmware README.md](https://github.com/tripflex/MOD-t/tree/master/firmware) for documentation
 
-### Slic3r
+### [Slic3r](https://github.com/tripflex/MOD-t/tree/master/Slic3r)
 
 This directory contains configuration files for Slic3r: http://slic3r.org
 
@@ -46,11 +46,11 @@ Launch Slic3r and select `File > Load Config` and select the file
 
 I recommend going in to Preferences in Slic3r and choosing Expert Mode.
 
-### Cura
+### [Cura]((https://github.com/tripflex/MOD-t/tree/master/Cura)
 
 Information/Configuration files for Cura https://ultimaker.com/en/products/cura-software
 
-### Calibration Tests
+### [Calibration Tests](https://github.com/tripflex/MOD-t/tree/master/Calibration%20Tests)
 
 Settings for the `Extrusion multiplier` in the `Filament Settings` tab of Slic3r, example image, and code to print a single wall.
 
