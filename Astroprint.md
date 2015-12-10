@@ -7,7 +7,7 @@ If you are using Astroprint to create G-Code from .OBJ and .STL files you've des
 
 ```
 Bed Shape: Rectangular
-X Axis:155.4 mm
+X Axis: 155.4 mm
 Y Axis: 104.6 mm
 Z Axis: 130 mm
 

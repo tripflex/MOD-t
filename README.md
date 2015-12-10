@@ -10,6 +10,22 @@ I am not associated with NewMatter in any way, but here's links to their site:
 
 **WARNING:** I take absolutely no responsibility for anything you do with these files or instructions, play at your own risk!
 
+MOD-t Details
+-------------
+
+```
+Bed Shape: Rectangular
+X Axis: 155.4 mm
+Y Axis: 104.6 mm
+Z Axis: 130 mm
+
+Nozzle Diameter: 0.4mm
+Number of Extruders: 1
+Heated Bed: FALSE
+```
+
+---
+
 Files
 -----
 
