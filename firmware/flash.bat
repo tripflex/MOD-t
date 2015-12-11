@@ -1,0 +1,1 @@
+dfu-util.exe -d 2b75:0003 -a 0 -s 0x0:leave -D racing_moon.dfu
