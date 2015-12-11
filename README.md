@@ -72,6 +72,7 @@ Go to the directory and see the `README.md` for documentation
 Resources
 ---------
 
+-	[MOD-t Reddit](http://www.reddit.com/r/newmatter)
 -	[Google MOD-t Group](https://groups.google.com/forum/?#!forum/mod-t)
 -	[NewMatter Website](http://www.newmatter.com)
 -	[NewMatter MOD-t Support](http://support.newmatter.com)
