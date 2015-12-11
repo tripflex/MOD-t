@@ -3,11 +3,6 @@ New Matter MOD-t 3d Printer Repo
 
 This repository is a collection of files (firmware, test files, configurations, etc) for the NewMatter MOD-t 3d Printer.
 
-I am not associated with NewMatter in any way, but here's links to their site:
-
--	http://newmatter.com
--	http://support.newmatter.com
-
 **WARNING:** I take absolutely no responsibility for anything you do with these files or instructions, play at your own risk!
 
 MOD-t Details
@@ -62,7 +57,7 @@ Launch Slic3r and select `File > Load Config` and select the file
 
 I recommend going in to Preferences in Slic3r and choosing Expert Mode.
 
-### [Cura]((https://github.com/tripflex/MOD-t/tree/master/Cura)
+### [Cura](https://github.com/tripflex/MOD-t/tree/master/Cura)
 
 Information/Configuration files for Cura https://ultimaker.com/en/products/cura-software
 
@@ -74,8 +69,17 @@ Go to the directory and see the `README.md` for documentation
 
 ---
 
-How to contibute
-----------------
+Resources
+---------
+
+-	[Google MOD-t Group](https://groups.google.com/forum/?#!forum/mod-t)
+-	[NewMatter Website](http://www.newmatter.com)
+-	[NewMatter MOD-t Support](http://support.newmatter.com)
+
+---
+
+How to contribute
+-----------------
 
 If you have a copy of firmware files, update suggestions to configurations, or anything else related to the MOD-t ... please feel free to open a new issue and let me know. I'll be more than happy to update or add anything to this repo.
 
