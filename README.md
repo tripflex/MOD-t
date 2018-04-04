@@ -103,6 +103,13 @@ Go to the directory and see the `README.md` for documentation
 
 ---
 
+
+MOD-t Teardown
+-------------
+[https://3dprinterwiki.info/newmatter-mod-t/](https://3dprinterwiki.info/newmatter-mod-t/)
+
+[Teardown Pictures](https://flic.kr/s/aHsknFFE6Z)
+
 Resources
 ---------
 
