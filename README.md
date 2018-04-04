@@ -12,6 +12,7 @@ As of February 28, 2018, New Matter has closed its doors and will no longer be p
 Unfortunately New Matter has decided to not release any of the source code for the MOD-t, as well as any software, [stating that there's licensed code they can't release](https://www.reddit.com/r/newmatter/comments/7xly0q/request_for_unewmatter_open_source_modt_firmware/), so instead of providing anything they could without licensed code, they provided nothing ... so time to start reverse engineering, **accepting all applications :)**
 
 [Join the MOD-t Users Slack Channel](https://join.slack.com/t/modt-users/shared_invite/enQtMzM4NzI5Mzg2NDY0LTYxZjUyZTNmNGFjNGZmZmVlOWY5NjNhM2E1MTlhYWY0MTc1YTgyYmMwZGRjNTVmMTI0MGUwNzliYTBmYjVjYmU)
+
 [View NewMatter Subreddit](https://www.reddit.com/r/newmatter/)
 
 [New Matter Closing Blog Post](https://newmatter.com/blog/permanent-closure/)
@@ -20,6 +21,14 @@ Unfortunately New Matter has decided to not release any of the source code for t
 FINAL SOFTWARE WARNINGS
 -----------------------
 Under the software section you will find a `.dmg` for OSX and `.exe` for Windows that is the last and final software version released by New Matter. **BEWARE** if you install this version and upgrade the firmware through the software, this **WILL COMPLETELY DISABLE WIFI ON YOUR MOD-T**
+
+How to print without New New Matter Store
+-----------------------------------------
+To convert your 3D files into G-code, we recommend two options: Cura, a free software-based slicer, and Astroprint.com, a web-based slicer.
+
+We have prepared a [post on our blog that outlines the entire process for creating G-code with Cura and sending it to your MOD-t through our desktop software application](https://web.archive.org/web/20180301201538/https://newmatter.com/blog/how-to-use-cura-with-the-mod-t/).
+
+Users who prefer not to download and install Cura can continue to “slice” their 3D designs into G-code through a website called Astroprint. This option has the benefit of being web-based, meaning there is no software to download, install, or configure. For a more detailed look at the process for converting your 3D files into G-code using Astroprint, [please see this video](https://www.youtube.com/watch?v=UL1-fpE6NUI).
 
 MOD-t Details
 -------------
