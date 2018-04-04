@@ -11,7 +11,7 @@ As of February 28, 2018, New Matter has closed its doors and will no longer be p
 
 Unfortunately New Matter has decided to not release any of the source code for the MOD-t, as well as any software, [stating that there's licensed code they can't release](https://www.reddit.com/r/newmatter/comments/7xly0q/request_for_unewmatter_open_source_modt_firmware/), so instead of providing anything they could without licensed code, they provided nothing ... so time to start reverse engineering, **accepting all applications :)**
 
-[Join the MOD-t Users Slack Channel](https://join.slack.com/t/modt-users/shared_invite/enQtMzIyNjUyMDQwMjc2LWUzOWMxNWQxNjYwZTlkYTkzZGY5ZDJlZTJjNGIwMTFlYzMzODczYmViNmJmZmJkY2RmOTNmOTg4NmE0YzZiN2E)
+[Join the MOD-t Users Slack Channel](https://join.slack.com/t/modt-users/shared_invite/enQtMzM4NzI5Mzg2NDY0LTYxZjUyZTNmNGFjNGZmZmVlOWY5NjNhM2E1MTlhYWY0MTc1YTgyYmMwZGRjNTVmMTI0MGUwNzliYTBmYjVjYmU)
 [View NewMatter Subreddit](https://www.reddit.com/r/newmatter/)
 
 [New Matter Closing Blog Post](https://newmatter.com/blog/permanent-closure/)
