@@ -5,6 +5,22 @@ This repository is a collection of files (firmware, test files, configurations, 
 
 **WARNING:** I take absolutely no responsibility for anything you do with these files or instructions, play at your own risk!
 
+MOD-t's Anonymous
+---------------
+As of February 28, 2018, New Matter has closed its doors and will no longer be providing WiFi connectivity to the MOD-t through the New Matter Store (will be open until Summer 2018).  A few of us that still enjoy our MOD-t have created a Slack group, please feel free to join us if you need help or want to discuss the future of the MOD-t
+
+Unfortunately New Matter has decided to not release any of the source code for the MOD-t, as well as any software, [stating that there's licensed code they can't release](https://www.reddit.com/r/newmatter/comments/7xly0q/request_for_unewmatter_open_source_modt_firmware/), so instead of providing anything they could without licensed code, they provided nothing ... so time to start reverse engineering, **accepting all applications :)**
+
+[Join the MOD-t Users Slack Channel](https://join.slack.com/t/modt-users/shared_invite/enQtMzIyNjUyMDQwMjc2LWUzOWMxNWQxNjYwZTlkYTkzZGY5ZDJlZTJjNGIwMTFlYzMzODczYmViNmJmZmJkY2RmOTNmOTg4NmE0YzZiN2E)
+[View NewMatter Subreddit](https://www.reddit.com/r/newmatter/)
+
+[New Matter Closing Blog Post](https://newmatter.com/blog/permanent-closure/)
+[Archive.org Cached Version](https://web.archive.org/web/20180301202219/https://newmatter.com/blog/permanent-closure/)
+
+FINAL SOFTWARE WARNINGS
+-----------------------
+Under the software section you will find a `.dmg` for OSX and `.exe` for Windows that is the last and final software version released by New Matter. **BEWARE** if you install this version and upgrade the firmware through the software, this **WILL COMPLETELY DISABLE WIFI ON YOUR MOD-T**
+
 MOD-t Details
 -------------
 
@@ -64,6 +80,15 @@ Information/Configuration files for Cura https://ultimaker.com/en/products/cura-
 ### [Calibration Tests](https://github.com/tripflex/MOD-t/tree/master/Calibration%20Tests)
 
 Settings for the `Extrusion multiplier` in the `Filament Settings` tab of Slic3r, example image, and code to print a single wall.
+
+Go to the directory and see the `README.md` for documentation
+
+### [Scripts](https://github.com/tripflex/MOD-t/tree/master/scripts)
+
+Scripts copied from [Xaero252 Mod-T-Scripts Repo](https://github.com/Xaero252/Mod-T-Scripts) with the exception of `optimize_gcode.py`
+
+`optimize_gcode.py` - is supposed to be the "optimize" from New Matter in the latest version of the software, [quote from reddit](https://www.reddit.com/r/newmatter/comments/7xly0q/request_for_unewmatter_open_source_modt_firmware/):
+> Pretty easy to figure out how it works and leads to ~50% smaller gcode files that print much, much faster with much higher print quality.
 
 Go to the directory and see the `README.md` for documentation
 

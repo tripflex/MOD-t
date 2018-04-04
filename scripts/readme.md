@@ -10,7 +10,6 @@ This is a basic set of utility scripts to interface with the New Matter Mod-T 3d
 This work falls under the MIT license. See the LICENSE file for more information.
 I must also credit /u/modtdev on reddit for the work on getting the gcode sent to the Mod-T
 
-
 ###Depdencies
 
 1. curl
