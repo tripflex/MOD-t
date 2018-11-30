@@ -26,7 +26,9 @@ How to print without New New Matter Store
 -----------------------------------------
 To convert your 3D files into G-code, we recommend two options: Cura, a free software-based slicer, and Astroprint.com, a web-based slicer.
 
-We have prepared a [post on our blog that outlines the entire process for creating G-code with Cura and sending it to your MOD-t through our desktop software application](https://web.archive.org/web/20180301201538/https://newmatter.com/blog/how-to-use-cura-with-the-mod-t/).
+We have prepared a [post on our blog that outlines the entire process for creating G-code with Cura and sending it to your MOD-t through our desktop software application (Web Archive Version)](https://web.archive.org/web/20180301201538/https://newmatter.com/blog/how-to-use-cura-with-the-mod-t/).
+
+[http://www.robosupportsnewmatter.com/blog/how-to-use-cura-with-the-mod-t](http://www.robosupportsnewmatter.com/blog/how-to-use-cura-with-the-mod-t)
 
 Users who prefer not to download and install Cura can continue to “slice” their 3D designs into G-code through a website called Astroprint. This option has the benefit of being web-based, meaning there is no software to download, install, or configure. For a more detailed look at the process for converting your 3D files into G-code using Astroprint, [please see this video](https://www.youtube.com/watch?v=UL1-fpE6NUI).
 
