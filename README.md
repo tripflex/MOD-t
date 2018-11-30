@@ -20,7 +20,7 @@ Unfortunately New Matter has decided to not release any of the source code for t
 
 FINAL SOFTWARE WARNINGS
 -----------------------
-Under the software section you will find a `.dmg` for OSX and `.exe` for Windows that is the last and final software version released by New Matter. **BEWARE** if you install this version and upgrade the firmware through the software, this **WILL COMPLETELY DISABLE WIFI ON YOUR MOD-T**
+Under the software section you will find a `.dmg` for OSX and `.exe` for Windows that is the last and final software version released by New Matter. **BEWARE** if you install this version **and** upgrade the firmware through the software, this **WILL COMPLETELY DISABLE WIFI ON YOUR MOD-T**
 
 How to print without New New Matter Store
 -----------------------------------------
@@ -102,6 +102,12 @@ Scripts copied from [Xaero252 Mod-T-Scripts Repo](https://github.com/Xaero252/Mo
 > Pretty easy to figure out how it works and leads to ~50% smaller gcode files that print much, much faster with much higher print quality.
 
 Go to the directory and see the `README.md` for documentation
+
+### [Lockbar](https://github.com/tripflex/MOD-t/tree/master/lockbar)
+
+[MOD-Skis: How to Improve the Stability of Your Prints](https://web.archive.org/web/20180619021649/https://newmatter.com/lockbars/)
+
+Includes gcode file and pdf of how to install
 
 ---
 
