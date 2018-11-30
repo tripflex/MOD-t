@@ -103,7 +103,7 @@ Scripts copied from [Xaero252 Mod-T-Scripts Repo](https://github.com/Xaero252/Mo
 
 Go to the directory and see the `README.md` for documentation
 
-### [Lockbar](https://github.com/tripflex/MOD-t/tree/master/lockbar)
+### [Lockbar](https://github.com/tripflex/MOD-t/tree/master/Lockbar)
 
 [MOD-Skis: How to Improve the Stability of Your Prints](https://web.archive.org/web/20180619021649/https://newmatter.com/lockbars/)
 
