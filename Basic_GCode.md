@@ -35,7 +35,6 @@ G1 X73.876 Y23.394 F1680
 G0 Z1 F300
 G0 X0 Y0 F5000
 
-G92 X77.7 Y52.3 ; Offset Origin from center to top right corner to accommodate Astroprint requirement
 G92 E0
 ```
 
